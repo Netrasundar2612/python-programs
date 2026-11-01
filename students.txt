@@ -1,0 +1,3 @@
+{'RollNo': '101', 'Name': 'Amala', 'Department': 'ECE', 'Mark': 90}
+{'RollNo': '102', 'Name': 'Baskar', 'Department': 'CSE', 'Mark': 95}
+{'RollNo': '103', 'Name': 'Chandra', 'Department': 'ECE', 'Mark': 80}
